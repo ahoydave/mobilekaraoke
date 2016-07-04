@@ -1,0 +1,1 @@
+pkill -9 -f '/usr/bin/omxplayer.bin'

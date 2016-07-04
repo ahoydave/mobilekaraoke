@@ -1,0 +1,4 @@
+sudo amixer cset numid=3 1
+sudo amixer cset numid=1 65536
+sudo mount /dev/sda1 /media/pi/Karaoke_Store
+python karaoke_menu.py /media/pi/Karaoke_Store/
